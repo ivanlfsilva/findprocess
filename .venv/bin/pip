@@ -1,4 +1,4 @@
-#!/home/ivan-luis/Documentos/Django/findprocess/.venv/bin/python3
+#!/home/ivanluis/Documentos/findprocess/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
