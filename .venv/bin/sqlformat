@@ -1,4 +1,4 @@
-#!/home/ivanluis/Documentos/findprocess/.venv/bin/python3
+#!/home/ivan-luis/Documentos/findprocess/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
